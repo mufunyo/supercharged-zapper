@@ -12,5 +12,8 @@ Planned features:
 
 Since the racket face itself is quite simple to make, a smaller version with a finer wire pitch for midge is also desirable. Most midge are too small to bridge the wire pitch on the standard size racket.
 
-Original schematic courtesy of [bigclivedotcom](https://www.youtube.com/watch?v=vvXZM6kg_gI)
+Original schematic courtesy of [bigclivedotcom](https://www.youtube.com/watch?v=yGR2G4qHm6g)
 ![schematic](zapper-schematic.png)
+
+Revised, enshittified version; schematic also by [bigclivedotcom](https://www.youtube.com/watch?v=vvXZM6kg_gI)
+![schematic-enshittified](zapper-enshittified.png)
