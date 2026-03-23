@@ -15,5 +15,8 @@ Since the racket face itself is quite simple to make, a smaller version with a f
 Original schematic courtesy of [bigclivedotcom](https://www.youtube.com/watch?v=yGR2G4qHm6g)
 ![schematic](zapper-schematic.png)
 
+Another schematic by [randomtronic](https://www.youtube.com/watch?v=Ocjjg5sIsTA)
+![schematic-2](zapper-schematic-2.png)
+
 Revised, enshittified version; schematic also by [bigclivedotcom](https://www.youtube.com/watch?v=vvXZM6kg_gI)
 ![schematic-enshittified](zapper-enshittified.png)
